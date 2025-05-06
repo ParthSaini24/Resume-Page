@@ -16,7 +16,7 @@ body {
     box-shadow: 0 10px 20px rgba(2, 255, 230, 0.5);
     padding: 25px;
     transition: transform 0.3s;
-    opacity: 0.5;
+    opacity: 0.45;
 }
 
 .container:hover {
