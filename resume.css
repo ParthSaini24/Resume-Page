@@ -50,7 +50,7 @@ header a {
     color: #fda085;
     text-decoration: none;
     margin-right: 15px;
-    transition: color 0.3s;
+    transition: color 0.4s;
 }
 
 header a:hover {
