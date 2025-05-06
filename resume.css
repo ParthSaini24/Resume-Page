@@ -69,7 +69,7 @@ h2 {
 h2::after {
     content: '';
     position: absolute;
-    width: 50px;
+    width: 48px;
     height: 6px;
     background: #f6d365;
     bottom: -2px;
