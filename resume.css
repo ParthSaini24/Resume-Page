@@ -13,7 +13,7 @@ body {
     margin: 50px auto;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(2, 255, 234, 0.5);
+    box-shadow: 0 10px 20px rgba(2, 255, 230, 0.5);
     padding: 30px;
     transition: transform 0.3s;
     opacity: 0.5;
