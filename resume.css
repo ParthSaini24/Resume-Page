@@ -139,7 +139,7 @@ header {
     margin-bottom: 20px;
     transition-property: transform;
     transition-duration: 0.5s;
-    box-shadow: 0.3s;
+    box-shadow: 0.4s;
 }
 
 .content-box:hover {
